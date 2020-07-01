@@ -1,5 +1,5 @@
 __The write-ups are ready, but will be uploaded once Matrix and CheckPoint end their challenges :blush:__  
-Meanwhile, you can see which flags I achieved. You can even visit regularly and see which new flags I achieved :smirk:!
+Meanwhile, you can see which flags I achieved. You can even visit regularly and see which new flags I achieve :smirk:!
 
 # Matrix CTF challenges 2020
 In March 2020 Matrix released CTF challenges intending to recruit people. I did not manage to finish them all(yet!), but I really enjoyed and learned a lot of new stuff!
@@ -22,13 +22,13 @@ Save Israel                   200        Reversing
 ```
 Title                   Points    Category      Flag
 ----------------------- --------- ------------- ------------------------------------------------------
-Automatic Machine       50        Reversing     
+Automatic Machine       50        Reversing     <CENSORED>
 Stronger Enigma         70        Reversing     
 SETI                    120       Reversing       
 Tricky Guess            50        Programming   <CENSORED>
-Stateful Keen           70        Programming           
+Stateful Keen           70        Programming   
 Command Keen            100       Programming   
-Dinner Party            20        Logic		    <CENSORED>
+Dinner Party            20        Logic         <CENSORED>
 Me Tarjan, You Jane     60        Logic         
 Amaze Me                100       Logic         <CENSORED>
 CS-hAcked               60        Networks     
