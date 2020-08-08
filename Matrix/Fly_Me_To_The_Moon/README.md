@@ -9,7 +9,7 @@ The only string that was neither 55 nor 4 chars long was `RkxBR19CUklOR19CQUNLX1
 
 ![Strings output](/Matrix/Fly_Me_To_The_Moon/images/strings.png)  
 
-This string is base64 encoded(as the '=' suffix hints). To decode it we can use free online services OR we can write an extremely short python script...  
+This string is base64 encoded(as the '=' suffix hints). To decode it we can use free online services such as CyberChef OR we can write on our own an extremely short python script...  
 Of course I would choose the second option :upside_down_face:
 
 ```python

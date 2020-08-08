@@ -14,7 +14,7 @@ Save Israel                   200        Reversing
 
 ---
 
-##__The write-ups for Checkpoint are ready, but will be uploaded once they end their challenge :blush:__  
+## __The write-ups for Checkpoint are ready, but will be uploaded once they end their challenge :blush:__  
 Meanwhile, you can see which flags I already achieved. You can even visit regularly and see which new flags I achieve :smirk:!
 
 # CheckPoint CTF challenges 2020  
