@@ -34,5 +34,5 @@ CS-hAcked               60        Networks
 Shoes                   80        Networks     
 xor-with-xor            30        Misc          <CENSORED>
 Can You See It?         40        Misc
-Fix Me If You Can       50        Misc
+Fix Me If You Can       50        Misc          <CENSORED>
 ```
